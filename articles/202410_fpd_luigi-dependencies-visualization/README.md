@@ -1,6 +1,6 @@
 # 機械学習パイプラインLuigiのタスク同士の関係を良い感じに可視化する方法
 
-URL: 
+URL: https://blog.nnn.dev/entry/luigi-pipeline-visualization
 
 ## リソースの説明
 
