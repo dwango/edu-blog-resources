@@ -16,6 +16,9 @@ URL: https://blog.nnn.dev/entry/luigi-pipeline-visualization
 
 
 ## 環境構築手順
+### graphvizのインストール
+graphvizが必要であるため、https://graphviz.org/download/ からインストールしてください。必要に応じてパスを通すなどしてください。
+
 ### pipenvのインストール
 pipenvが必要であるため、https://pipenv-ja.readthedocs.io/ja/translate-ja/install.html#installing-pipenv の手順にしたがってインストールしてください。
 
