@@ -77,7 +77,7 @@ az.plot_trace(idata, var_names=["b"], coords={"b_dim_0": [0]})
 az.plot_trace(idata, var_names=["theta"], coords={"theta_dim_0": [0]})
 
 # %% 自己相関の確認
-az.plot_autocorr(idata, var_names=["a"], max_lag=20)
+az.plot_autocorr(idata, var_names=["a"], max_lag=20, combined=True)
 
 # %% 間引きありのMCMC実行
 kernel = NUTS(model)
